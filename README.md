@@ -13,7 +13,7 @@ This dataset was created for the master thesis "Few-Shot Relation Extraction for
 The sentences were annotated by a marvellous crowdsourcing team including Chris, Christl, Florian, Hans, Jean-Francois, Julia, Kristin, Marco, Marina, Marius, MG and Sandra.
 Thanks to you all! :cupid:
 
-The minimalist annotation tool [Locksley](https://github.com/acid_ann/locksley) was used in the creation of WissenschaftsSTANDARD.
+The minimalist annotation tool [Locksley](https://github.com/acidAnn/locksley) was used in the creation of WissenschaftsSTANDARD.
 
 ## Relation set
 WissenschaftsSTANDARD contains the following eight relations:
