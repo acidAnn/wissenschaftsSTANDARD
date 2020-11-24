@@ -25,7 +25,7 @@ WissenschaftsSTANDARD contains the following eight relations:
 | 4 | Kollegin, Kollege | colleague | two people work together | 208 |
 | 5 | nachgeordnete Organisation | subsidiary | an organisation belongs to a larger parent organisation | 145 |
 | 6 | Partnerorganisation | partner organisation | two organisations work together | 216 |
-| 7 | Standort in | located in | an organisation is situated in a location | 261 |
+| 7 | Standort in | located in | an organisation is situated in a location | 260 |
 | 8 | Teilort | geographical part of | a location is part of a larger geographical entity | 116 |
 | 9 | verleiht Preis an | awards prize to | an organisation awards a prize to a person | 13 |
 | 10 | Gründer:in | founder | a person has founded an organisation | 6 |
