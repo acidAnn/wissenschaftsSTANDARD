@@ -9,9 +9,11 @@ Therefore, the sentences mainly treat scientific discoveries and events in acade
 
 ## Annotation Process
 This dataset was created for the master thesis "Few-Shot Relation Extraction for German" by Anna Sauer.
+
 The sentences were annotated by a marvellous crowdsourcing team including Chris, Christl, Florian, Hans, Jean-Francois, Julia, Kristin, Marco, Marina, Marius, MG and Sandra.
-Thanks to you all! :heart_with_arrow:
-The minimalist annotation tool [Locksley](https://github.com/acid_ann/locksley) was used in the creation of WissenschaftsSTANDARD.
+Thanks to you all! :cupid:
+
+The minimalist annotation tool [Locksley](https://github.com/acidAnn/locksley) was used in the creation of WissenschaftsSTANDARD.
 
 ## Relation set
 WissenschaftsSTANDARD contains the following eight relations:
