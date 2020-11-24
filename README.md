@@ -65,5 +65,5 @@ Consider the following made-up example:
 ```
 
 ## License
-10kGNAD is licensed under a [Creative Commons BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+10kGNAD is licensed under a [Creative Commons BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/) (cf. https://github.com/tblock/10kGNAD).
 Therefore, WissenschaftsSTANDARD is also released under the [Creative Commons BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
