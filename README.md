@@ -32,7 +32,7 @@ WissenschaftsSTANDARD contains the following eight relations:
 | 9 | verleiht Preis an | awards prize to | an organisation awards a prize to a person | 13 |
 | 10 | Gründer:in | founder | a person has founded an organisation | 6 |
 
-In the dataset file, they are all referred to by their id. The total of labeled relation instances amounts to 3,117.
+In the dataset file, they are all referred to by their id. The total of labeled relation instances amounts to 3,116.
 Note that one sentence from 10kGNAD can be labeled with several relations and can therefore appear several times in WissenschaftsSTANDARD.
 
 The relations are assumed to have a fixed direction from one entity to another one.
