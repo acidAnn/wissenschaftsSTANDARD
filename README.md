@@ -16,7 +16,7 @@ Thanks to you all! :cupid:
 The minimalist annotation tool [Locksley](https://github.com/acidAnn/locksley) was used in the creation of WissenschaftsSTANDARD.
 
 ## Relation set
-WissenschaftsSTANDARD contains the following ten relations:
+WissenschaftsSTANDARD contains the following eleven relations:
 
 | id | German name | English name | description | number of instances |
 |----|-----|--------|--------|------|
